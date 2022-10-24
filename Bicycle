@@ -32,7 +32,7 @@ class Bicycle {
 		tagNo = tag;
 	}
 	
-	public String setId (){
+	public String getId (){
 		return id;
 	}
 	
